@@ -1,0 +1,11 @@
+Feedback
+
+1. (0.5/2.0)
+* El objetivo era completar y corregir el diagrama de clases. No dibujarlo como si fuera el árbol. El diagrama de clases es un diagrama de diseño de software, no de implementar casos específicos.
+* De acuerdo al diseño presentado, un Selector es un Sequence, y un Task un Selector. Nada de eso es correcto en el modelo de árbol de comportamiento.
+2. (0.0 /3.0)
+* El root no tiene implementación.
+* No están las demás clases de árboles de comportamiento
+* Las tareas de salto y desplazamiento se hicieron fuera del modelo de árbol de comportamiento.
+
+Nota: 0.5
